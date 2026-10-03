@@ -23,7 +23,7 @@ web development, and related technical fields.
 | IBM / Coursera | Intermediate Front-End Web Development | 2026 | [Verify Certificate](https://coursera.org/share/0df67fc9695b64bb152e8e2b9b159901) |
 | IBM / Coursera | Software Developer Career Guide and Interview Preparation | 2024 | [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/PKLDR6BKSKTD) |
 | Udacity | Web Development Challenger Certification | 2021 | [Verify Certificate](https://udacity.com/certificate/e/0fdd4550-4627-11eb-87f0-c30475e786b9) |
-| Udacity | Web Development Challenger Certification | 2021 | [Verify Certificate](https://udacity.com/certificate/e/f149f9f2-6571-11eb-b7f2-67e35760c752) |
+| Udacity | Web Development professional Certification | 2021 | [Verify Certificate](https://udacity.com/certificate/e/f149f9f2-6571-11eb-b7f2-67e35760c752) |
 ## Digital Badges
 
 - Credly — Intermediate Front-End Web Development
