@@ -27,8 +27,8 @@ web development, and related technical fields.
 ## Digital Badges
 
 - Credly — Intermediate Front-End Web Development
-  - [View Badge]([LINK](https://www.credly.com/badges/cce89573-7085-4947-857d-7f7a7585dbbe/linked_in_profile))
-
+  - [View Badge](https://www.credly.com/badges/cce89573-7085-4947-857d-7f7a7585dbbe/linked_in_profile)
+    
 ## About
 
 I am building a strong foundation in software engineering and
