@@ -29,7 +29,7 @@ The credential also reflects hands-on knowledge of building websites with WordPr
 
 ## Credential PDF
 
-[View Credential PDF](ibm%20badge%20pdf.pdf)
+[View Credential PDF](certificate.pdf)
 
 ---
 
